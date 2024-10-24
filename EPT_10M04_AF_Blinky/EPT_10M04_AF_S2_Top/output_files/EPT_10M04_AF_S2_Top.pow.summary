@@ -1,0 +1,12 @@
+Power Analyzer Status : Successful - Thu Oct 24 08:53:55 2024
+Quartus Prime Version : 23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name : EPT_10M04_AF_S2_Top
+Top-level Entity Name : EPT_10M04_AF_S2_Top
+Family : MAX 10
+Device : 10M04SAE144C8G
+Power Models : Final
+Total Thermal Power Dissipation : 131.13 mW
+Core Dynamic Thermal Power Dissipation : 0.00 mW
+Core Static Thermal Power Dissipation : 110.65 mW
+I/O Thermal Power Dissipation : 20.48 mW
+Power Estimation Confidence : Low: user provided insufficient toggle rate data

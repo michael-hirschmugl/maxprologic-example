@@ -1,0 +1,18 @@
+Fitter Status : Successful - Thu Oct 24 08:53:45 2024
+Quartus Prime Version : 23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name : EPT_10M04_AF_S2_Top
+Top-level Entity Name : EPT_10M04_AF_S2_Top
+Family : MAX 10
+Device : 10M04SAE144C8G
+Timing Models : Final
+Total logic elements : 68 / 4,032 ( 2 % )
+    Total combinational functions : 44 / 4,032 ( 1 % )
+    Dedicated logic registers : 53 / 4,032 ( 1 % )
+Total registers : 53
+Total pins : 47 / 101 ( 47 % )
+Total virtual pins : 0
+Total memory bits : 0 / 193,536 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 40 ( 0 % )
+Total PLLs : 0 / 1 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 1 ( 0 % )
